@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🎮 **Pygame** 🚀</h1>
+<h1>🎮 Pygame 🚀</h1>
    <img src="https://datascientest.com/en/files/2023/12/pygame-datascientest.webp"  width="800" height="300"/>
 </div> 
 
