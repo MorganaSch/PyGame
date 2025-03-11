@@ -3,8 +3,6 @@
    <img src="https://datascientest.com/en/files/2023/12/pygame-datascientest.webp"  width="800" height="300"/>
 </div> 
 
-Bem-vindo ao **Pygame Project**! 😎 Aqui você vai encontrar projetos e exemplos usando o **Pygame**, a biblioteca Python perfeita para criar **jogos 2D** incríveis! 🎮 Se você é iniciante ou já tem alguma experiência, este repositório vai te ajudar a colocar suas ideias em prática. 🎨
-
 ## O que é o Pygame? 🤔
 
 **Pygame** é uma biblioteca super legal para quem quer desenvolver **jogos 2D** em Python! Com ela, você pode mexer com gráficos, sons, eventos e entradas do usuário de forma muito fácil e divertida. 🔥
@@ -17,14 +15,14 @@ Antes de começar a se divertir, você vai precisar ter o **Python** instalado n
 
 Depois, para instalar o **Pygame**, basta usar o seguinte comando mágico no terminal:
 
-    ```bash
-      pip install pygame
+       pip install pygame
+
 Simples, né? Agora você já está pronto para criar! 🎉
 
 Estrutura do Repositório 📂
 Aqui está como o repositório está organizado para você achar tudo rapidinho:
 
-    ```bash
+    
     Pygame-Project/
     ├── examples/          # Exemplos de jogos que você pode testar e aprender
     ├── assets/            # Onde ficam as imagens, sons e recursos
@@ -40,7 +38,6 @@ Aqui está como o repositório está organizado para você achar tudo rapidinho:
 Está pronto para jogar? 😜 
 - Para rodar os exemplos, vá até a pasta examples e execute o script que você quiser testar. Por exemplo:
 
-      ```bash
       cd examples
       python example_game.py
 
