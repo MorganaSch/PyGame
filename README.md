@@ -1,7 +1,9 @@
 <div align="center">
 <h1>🎮 Pygame 🚀</h1>
-   <img src="https://datascientest.com/en/files/2023/12/pygame-datascientest.webp"  width="800" height="300"/>
-</div> 
+   <p align="center">
+  <img src="https://i.pinimg.com/originals/b2/5c/1d/b25c1dcf47b7f24b4bfd6c6038e3428b.gif" alt="Data analysis gif" width="400"/>
+</p>
+</div>
 
 ## O que é o Pygame? 🤔
 
